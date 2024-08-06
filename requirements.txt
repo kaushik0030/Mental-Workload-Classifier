@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+flask
+requests
+pillow
+joblib
+openai
+python-dotenv
